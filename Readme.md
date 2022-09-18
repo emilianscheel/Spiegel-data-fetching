@@ -62,7 +62,7 @@ Wants=spiegel-data-fetching.timer
 
 [Service]
 Type=oneshot
-WorkingDirectory=/home/<user>/apps/spiegel-data-fetching/
+WorkingDirectory=/home/<user>/apps/Spiegel-data-fetching/
 ExecStart=/usr/bin/python3 main.py
 
 [Install]
