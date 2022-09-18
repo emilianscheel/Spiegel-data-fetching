@@ -94,11 +94,11 @@ WantedBy=timers.target
 ```sh
 # starts and enables service
 systemctl enable spiegel-data-fetching.service
-systemctl start spiegel-data-fetching.service
+sudo systemctl start spiegel-data-fetching.service
 
 # starts and enables timer
 systemctl enable spiegel-data-fetching.timer
-systemctl start spiegel-data-fetching.timer
+sudo systemctl start spiegel-data-fetching.timer
 ```
 
 That configuration starts our system service every eleven minutes. The system service triggers the `main.py` script which is the fetching a spiegel rss feed.
