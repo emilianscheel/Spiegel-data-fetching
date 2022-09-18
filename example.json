@@ -1,0 +1,42 @@
+{
+  "title": "Borussia M\u00f6nchengladbach gegen RB Leipzig: Das Gastspiel der Reizfiguren",
+  "title_detail": {
+    "type": "text/plain",
+    "language": null,
+    "base": "https://www.spiegel.de/schlagzeilen/index.rss",
+    "value": "Borussia M\u00f6nchengladbach gegen RB Leipzig: Das Gastspiel der Reizfiguren"
+  },
+  "links": [
+    {
+      "rel": "alternate",
+      "type": "text/html",
+      "href": "https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-gegen-rb-leipzig-das-gastspiel-der-reizfiguren-a-61182b19-eb0e-48df-bfc5-f899a054c0ff#ref=rss"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "https://cdn.prod.www.spiegel.de/images/dfbc8753-57be-432d-a4f2-fc370b8e5a1a_w520_r2.08_fpx40.65_fpy44.99.jpg",
+      "rel": "enclosure"
+    }
+  ],
+  "link": "https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-gegen-rb-leipzig-das-gastspiel-der-reizfiguren-a-61182b19-eb0e-48df-bfc5-f899a054c0ff#ref=rss",
+  "summary": "RB Leipzig gastiert in M\u00f6nchengladbach, damit kehrt auch der im Unfrieden geschiedene Trainer Marco Rose zum Ex-Verein zur\u00fcck. Zudem sorgt die Personalie Max Eberl f\u00fcr dicke Luft zwischen beiden Klubs.",
+  "summary_detail": {
+    "type": "text/html",
+    "language": null,
+    "base": "https://www.spiegel.de/schlagzeilen/index.rss",
+    "value": "RB Leipzig gastiert in M\u00f6nchengladbach, damit kehrt auch der im Unfrieden geschiedene Trainer Marco Rose zum Ex-Verein zur\u00fcck. Zudem sorgt die Personalie Max Eberl f\u00fcr dicke Luft zwischen beiden Klubs."
+  },
+  "tags": [{ "term": "Sport", "scheme": null, "label": null }],
+  "id": "https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-gegen-rb-leipzig-das-gastspiel-der-reizfiguren-a-61182b19-eb0e-48df-bfc5-f899a054c0ff",
+  "guidislink": false,
+  "published": "Sat, 17 Sep 2022 15:11:03 +0200",
+  "published_parsed": [2022, 9, 17, 13, 11, 3, 5, 260, 0],
+  "content": [
+    {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.spiegel.de/schlagzeilen/index.rss",
+      "value": "RB Leipzig gastiert in M\u00f6nchengladbach, damit kehrt auch der im Unfrieden geschiedene Trainer Marco Rose zum Ex-Verein zur\u00fcck. Zudem sorgt die Personalie Max Eberl f\u00fcr dicke Luft zwischen beiden Klubs."
+    }
+  ]
+}
