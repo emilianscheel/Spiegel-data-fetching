@@ -16,6 +16,11 @@ find . -type f | wc -l
 du -hs
 ```
 
+```sh
+# gets last modified files in current dir
+find . -printf '%T+ %p\n' | sort -r | head
+```
+
 ### Depends on
 
 - `python3`
